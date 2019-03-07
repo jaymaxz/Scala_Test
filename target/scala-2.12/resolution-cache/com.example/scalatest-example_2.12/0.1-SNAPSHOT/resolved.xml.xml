@@ -4,7 +4,7 @@
 		module="scalatest-example_2.12"
 		revision="0.1-SNAPSHOT"
 		status="integration"
-		publication="20190307154039"
+		publication="20190307161056"
 	>
 		<description>
 		scalatest-example

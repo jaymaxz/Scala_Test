@@ -1,4 +1,4 @@
-[0m[[0minfo[0m] [0mUpdating {file:/home/jagath/Documents/Test/}root...[0m
+[0m[[0minfo[0m] [0mUpdating {file:/home/jagath/Documents/Scala_Test/}root...[0m
 [0m[[0mdebug[0m] [0m:: resolving dependencies :: com.example#scalatest-example_2.12;0.1-SNAPSHOT[0m
 [0m[[0mdebug[0m] [0m	confs: [compile, runtime, test, provided, optional, compile-internal, runtime-internal, test-internal, plugin, sources, docs, pom, scala-tool][0m
 [0m[[0mdebug[0m] [0m	validate = true[0m
@@ -692,19 +692,19 @@
 [0m[[0mdebug[0m] [0m	[NOT REQUIRED] org.scala-lang.modules#scala-xml_2.12;1.0.6!scala-xml_2.12.jar(bundle)[0m
 [0m[[0mdebug[0m] [0m	[NOT REQUIRED] org.scala-lang#scala-compiler;2.12.7!scala-compiler.jar[0m
 [0m[[0mdebug[0m] [0m	[NOT REQUIRED] jline#jline;2.14.6!jline.jar[0m
-[0m[[0mdebug[0m] [0m:: resolution report :: resolve 46ms :: artifacts dl 2ms[0m
-[0m[[0mdebug[0m] [0m	report for com.example#scalatest-example_2.12;0.1-SNAPSHOT compile produced in /home/jagath/Documents/Test/target/scala-2.12/resolution-cache/reports/com.example-scalatest-example_2.12-compile.xml[0m
-[0m[[0mdebug[0m] [0m	report for com.example#scalatest-example_2.12;0.1-SNAPSHOT runtime produced in /home/jagath/Documents/Test/target/scala-2.12/resolution-cache/reports/com.example-scalatest-example_2.12-runtime.xml[0m
-[0m[[0mdebug[0m] [0m	report for com.example#scalatest-example_2.12;0.1-SNAPSHOT test produced in /home/jagath/Documents/Test/target/scala-2.12/resolution-cache/reports/com.example-scalatest-example_2.12-test.xml[0m
-[0m[[0mdebug[0m] [0m	report for com.example#scalatest-example_2.12;0.1-SNAPSHOT provided produced in /home/jagath/Documents/Test/target/scala-2.12/resolution-cache/reports/com.example-scalatest-example_2.12-provided.xml[0m
-[0m[[0mdebug[0m] [0m	report for com.example#scalatest-example_2.12;0.1-SNAPSHOT optional produced in /home/jagath/Documents/Test/target/scala-2.12/resolution-cache/reports/com.example-scalatest-example_2.12-optional.xml[0m
-[0m[[0mdebug[0m] [0m	report for com.example#scalatest-example_2.12;0.1-SNAPSHOT compile-internal produced in /home/jagath/Documents/Test/target/scala-2.12/resolution-cache/reports/com.example-scalatest-example_2.12-compile-internal.xml[0m
-[0m[[0mdebug[0m] [0m	report for com.example#scalatest-example_2.12;0.1-SNAPSHOT runtime-internal produced in /home/jagath/Documents/Test/target/scala-2.12/resolution-cache/reports/com.example-scalatest-example_2.12-runtime-internal.xml[0m
-[0m[[0mdebug[0m] [0m	report for com.example#scalatest-example_2.12;0.1-SNAPSHOT test-internal produced in /home/jagath/Documents/Test/target/scala-2.12/resolution-cache/reports/com.example-scalatest-example_2.12-test-internal.xml[0m
-[0m[[0mdebug[0m] [0m	report for com.example#scalatest-example_2.12;0.1-SNAPSHOT plugin produced in /home/jagath/Documents/Test/target/scala-2.12/resolution-cache/reports/com.example-scalatest-example_2.12-plugin.xml[0m
-[0m[[0mdebug[0m] [0m	report for com.example#scalatest-example_2.12;0.1-SNAPSHOT sources produced in /home/jagath/Documents/Test/target/scala-2.12/resolution-cache/reports/com.example-scalatest-example_2.12-sources.xml[0m
-[0m[[0mdebug[0m] [0m	report for com.example#scalatest-example_2.12;0.1-SNAPSHOT docs produced in /home/jagath/Documents/Test/target/scala-2.12/resolution-cache/reports/com.example-scalatest-example_2.12-docs.xml[0m
-[0m[[0mdebug[0m] [0m	report for com.example#scalatest-example_2.12;0.1-SNAPSHOT pom produced in /home/jagath/Documents/Test/target/scala-2.12/resolution-cache/reports/com.example-scalatest-example_2.12-pom.xml[0m
-[0m[[0mdebug[0m] [0m	report for com.example#scalatest-example_2.12;0.1-SNAPSHOT scala-tool produced in /home/jagath/Documents/Test/target/scala-2.12/resolution-cache/reports/com.example-scalatest-example_2.12-scala-tool.xml[0m
-[0m[[0mdebug[0m] [0m	resolve done (46ms resolve - 2ms download)[0m
+[0m[[0mdebug[0m] [0m:: resolution report :: resolve 55ms :: artifacts dl 2ms[0m
+[0m[[0mdebug[0m] [0m	report for com.example#scalatest-example_2.12;0.1-SNAPSHOT compile produced in /home/jagath/Documents/Scala_Test/target/scala-2.12/resolution-cache/reports/com.example-scalatest-example_2.12-compile.xml[0m
+[0m[[0mdebug[0m] [0m	report for com.example#scalatest-example_2.12;0.1-SNAPSHOT runtime produced in /home/jagath/Documents/Scala_Test/target/scala-2.12/resolution-cache/reports/com.example-scalatest-example_2.12-runtime.xml[0m
+[0m[[0mdebug[0m] [0m	report for com.example#scalatest-example_2.12;0.1-SNAPSHOT test produced in /home/jagath/Documents/Scala_Test/target/scala-2.12/resolution-cache/reports/com.example-scalatest-example_2.12-test.xml[0m
+[0m[[0mdebug[0m] [0m	report for com.example#scalatest-example_2.12;0.1-SNAPSHOT provided produced in /home/jagath/Documents/Scala_Test/target/scala-2.12/resolution-cache/reports/com.example-scalatest-example_2.12-provided.xml[0m
+[0m[[0mdebug[0m] [0m	report for com.example#scalatest-example_2.12;0.1-SNAPSHOT optional produced in /home/jagath/Documents/Scala_Test/target/scala-2.12/resolution-cache/reports/com.example-scalatest-example_2.12-optional.xml[0m
+[0m[[0mdebug[0m] [0m	report for com.example#scalatest-example_2.12;0.1-SNAPSHOT compile-internal produced in /home/jagath/Documents/Scala_Test/target/scala-2.12/resolution-cache/reports/com.example-scalatest-example_2.12-compile-internal.xml[0m
+[0m[[0mdebug[0m] [0m	report for com.example#scalatest-example_2.12;0.1-SNAPSHOT runtime-internal produced in /home/jagath/Documents/Scala_Test/target/scala-2.12/resolution-cache/reports/com.example-scalatest-example_2.12-runtime-internal.xml[0m
+[0m[[0mdebug[0m] [0m	report for com.example#scalatest-example_2.12;0.1-SNAPSHOT test-internal produced in /home/jagath/Documents/Scala_Test/target/scala-2.12/resolution-cache/reports/com.example-scalatest-example_2.12-test-internal.xml[0m
+[0m[[0mdebug[0m] [0m	report for com.example#scalatest-example_2.12;0.1-SNAPSHOT plugin produced in /home/jagath/Documents/Scala_Test/target/scala-2.12/resolution-cache/reports/com.example-scalatest-example_2.12-plugin.xml[0m
+[0m[[0mdebug[0m] [0m	report for com.example#scalatest-example_2.12;0.1-SNAPSHOT sources produced in /home/jagath/Documents/Scala_Test/target/scala-2.12/resolution-cache/reports/com.example-scalatest-example_2.12-sources.xml[0m
+[0m[[0mdebug[0m] [0m	report for com.example#scalatest-example_2.12;0.1-SNAPSHOT docs produced in /home/jagath/Documents/Scala_Test/target/scala-2.12/resolution-cache/reports/com.example-scalatest-example_2.12-docs.xml[0m
+[0m[[0mdebug[0m] [0m	report for com.example#scalatest-example_2.12;0.1-SNAPSHOT pom produced in /home/jagath/Documents/Scala_Test/target/scala-2.12/resolution-cache/reports/com.example-scalatest-example_2.12-pom.xml[0m
+[0m[[0mdebug[0m] [0m	report for com.example#scalatest-example_2.12;0.1-SNAPSHOT scala-tool produced in /home/jagath/Documents/Scala_Test/target/scala-2.12/resolution-cache/reports/com.example-scalatest-example_2.12-scala-tool.xml[0m
+[0m[[0mdebug[0m] [0m	resolve done (55ms resolve - 2ms download)[0m
 [0m[[0minfo[0m] [0mDone updating.[0m
